@@ -1,2 +1,2 @@
-# LearnPython
-note4Python
+### Learn Python
+Note for learning Python
